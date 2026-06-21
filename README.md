@@ -33,4 +33,6 @@ head(works)
 https://docs.openalex.org  
 https://openalex.org  
   
-Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: Um índice totalmente aberto de trabalhos acadêmicos, autores, locais, instituições e conceitos . ArXiv. https://arxiv.org/abs/2205.01833  
+## Referencia  
+
+Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. ArXiv. https://arxiv.org/abs/2205.01833
